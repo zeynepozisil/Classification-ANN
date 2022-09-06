@@ -1,4 +1,4 @@
-# Classification-ANN :1234:
+# Classification-ANN 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -8,6 +8,7 @@
 
 
 ## Used Classification (ANN) For Churn Dataset
+:1234:
 
 #### A) FOR THE CHURN MODELLİNG DATASET USE ARTİFİCİAL NEURAL NETWORKS TO PERFORM CLASSİFİCATİON AND SHOW  İTS ACCURACY. 
 
