@@ -1,9 +1,9 @@
-# <h1 align="center">Classification-ANN 
+# <h1 align="center"> :1234: Classification-ANN :1234:
 
 ![Screenshot](mnist.png)
 
 ## Used Classification (ANN) For CHURN and MNIST Dataset
-# :1234:
+
 
 #### A) FOR THE CHURN MODELLİNG DATASET USE ARTİFİCİAL NEURAL NETWORKS TO PERFORM CLASSİFİCATİON AND SHOW  İTS ACCURACY. 
 
